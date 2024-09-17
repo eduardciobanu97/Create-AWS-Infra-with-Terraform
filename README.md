@@ -3,7 +3,10 @@ Terraform is an infrastructure as code (IaC) tool that allows users to define an
  * networks (VPCs, SGS)
  * dbs (RDS)
 
-The project create infrastructrue in AWS
+The project creates infrastructrue in AWS 
+###General arhitecture
+
+![IMG](diagram.png)
 
 This Terraform code creates a basic infrastructure on Amazon Web Services (AWS) using a single main.tf file. The infrastructure includes:
  
